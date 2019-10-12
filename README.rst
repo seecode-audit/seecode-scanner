@@ -133,7 +133,7 @@ seecode_scanner.yml 是 seecode-scanner 的核心配置文件，默认路径为 
     
     distributed:
       ftp:
-        host: "192.168.168.1.1"
+        host: "192.168.1.1"
         port: 21
         username: "seecode"
         password: "test1234"
@@ -316,3 +316,21 @@ seecode_scanner.yml 是 seecode-scanner 的核心配置文件，默认路径为 
 
 该参数等同于 celery 中的 -n 参数。默认值为 sca1。
 
+
+TODO
+---------------
+
+引擎集成
+^^^^^^^^^^^^^^^^
+
+* https://github.com/OWASP/wpBullet
+* https://github.com/pmd/pmd
+* https://github.com/Tencent/TscanCode
+* https://github.com/RetireJS/retire.js
+
+捐赠
+---------------
+
+* BTC 地址：18F4VFDX2MCEXod7zjUF8NepUdAspEcJR8
+* ETH 地址：0xB3Bc55F4AAa8E87D3675B547e31d3eEbb585175c
+* HT 地址：0x952b4cd9f18126987fdbfab55e1ea72c5ae72e1
